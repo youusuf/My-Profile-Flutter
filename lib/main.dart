@@ -2,6 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
+//this is new line
+
 void main(){
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
